@@ -5,7 +5,7 @@
   "description": "Sample: MultiComboBox - Grouping of items",
   "scripts": {
     "start": "ui5 serve",
-    "build": "ui5 build"
+    "build": "ui5 build --dest docs --clean-dest"
   },
   "dependencies": {
     "@openui5/themelib_sap_fiori_3": "^1",
